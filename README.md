@@ -10,7 +10,7 @@
 ## Usage
 
 ```bash
-sudo docker run --rm -e BUCKET=bucket -e DOMAIN=example.com joshava/b2-nginx
+docker run -e BUCKET=bucket -e DOMAIN=example.com joshava/b2-nginx
 ```
 
 [docker]: https://hub.docker.com/r/joshava/b2-nginx
