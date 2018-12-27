@@ -20,5 +20,5 @@ docker run -e BUCKET=bucket -e DOMAIN=example.com joshava/b2-nginx
 [docker_layer]: https://img.shields.io/microbadger/layers/joshava/b2-nginx.svg
 [license]: https://github.com/joshava/b2-nginx/blob/master/LICENSE
 [license_md]: https://img.shields.io/github/license/joshava/b2-nginx.svg
-[travis]: https://travis-ci.org/joshava/s3-nginx
-[travis_ci]: https://img.shields.io/travis/joshava/s3-nginx.svg
+[travis]: https://travis-ci.org/joshava/b2-nginx
+[travis_ci]: https://img.shields.io/travis/joshava/b2-nginx.svg
